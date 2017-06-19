@@ -1,6 +1,8 @@
 package model;
 
 public class UserModel {
+	//test for second commit
+	
 	
 	private String username;
 	private String password;
