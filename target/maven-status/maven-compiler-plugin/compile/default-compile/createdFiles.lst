@@ -1,0 +1,11 @@
+domain\UserRolesRepository.class
+config\LoginController.class
+model\UserModel.class
+config\Application.class
+config\WebSecurityConfig.class
+domain\User.class
+domain\UserRole.class
+security\CustomUserDetails.class
+config\MvcConfig.class
+domain\UserRepository.class
+security\CustomUserDetailsService.class
